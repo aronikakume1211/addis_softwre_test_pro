@@ -1,0 +1,64 @@
+/* 
+Theme Name: WP Bootstrap Starter Child 
+Theme URL: http://yourdomain.com
+Description: WP Bootstrap Starter Child 
+Theme Author: Your Name
+Author URL: http://yourdomain.com
+Template: wp-bootstrap-starter 
+Version: 1.0.0 
+Text Domain: wp-bootstrap-starter-child 
+*/
+.main-panel{
+	background-color:#f1f1f1; 
+	margin-bottom: 40px; 
+	box-shadow: 5px 10px #fcfcf1; 
+	border-radius: 20px
+}
+.header-image{
+	height:95%;
+	width: auto; 
+	margin: 10px; 
+	border-radius: 4px;
+}
+.title{
+	color: #fdc46c; 
+	text-transform: capitalize;
+}
+.title:hover{
+	text-decoration: none
+}
+.right-panel{
+	font-size: 14px
+}
+.fact-panel{
+	background-color:#544747;
+	margin: 17px; 
+	color: #fff
+}
+.fact-panel .title{
+	color:#fff; 
+	font-size: 24px; 
+	font-style: normal
+}
+.fact-panel .content{
+	padding-left: 10%; 
+	line-height: 13px; 
+	font-size: 15px;
+}
+.payment-panel{
+	background-color:#3a7a7a; 
+	margin: 17px;
+}
+.payment-panel .title{
+	font-size: 24px; 
+	font-style: normal;
+	color: black;
+}
+.payment-panel .content{
+	padding-left: 10%; 
+	line-height: 13px; 
+	font-size: 15px
+}
+.payment-panel #price{
+	padding-top: 10%;
+}
